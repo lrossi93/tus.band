@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>tus.band</title>
+  <script>
+    (function () {
+      var supported = ['en', 'it'];
+      var saved = localStorage.getItem('preferredLang');
+      var browserLang = (navigator.language || 'en').slice(0, 2);
+      var lang = supported.includes(saved) ? saved
+                : supported.includes(browserLang) ? browserLang
+                : 'en';
+      window.location.replace('/' + lang + '/');
+    })();
+  </script>
+</head>
+<body></body>
+</html>
