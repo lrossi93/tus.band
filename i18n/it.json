@@ -28,6 +28,65 @@
     "Past events": "Eventi passati",
     "Next events": "Prossimi eventi",
     "There are no upcoming events.": "Non ci sono eventi in arrivo.",
-    "Do you wish to invite us to your event?": "Vuoi invitarci al tuo evento?"
+    "Do you wish to invite us to your event?": "Vuoi invitarci al tuo evento?",
 
+    "Privacy Policy": "Privacy Policy",
+    "Last update:": "Ultimo aggiornamento:",
+    "This Privacy Policy describes how the tus.band website (the \"Site\") handles data in compliance with Regulation (EU) 2016/679 (\"GDPR\").": "La presente Privacy Policy descrive come il sito tus.band (\"il Sito\") tratta i dati nel rispetto del Regolamento (UE) 2016/679 (\"GDPR\").",
+
+    "Data controller": "Titolare del trattamento",
+    "The Site is a project by Lorenzo Rossi, acting as the representative of the music project TÙS, which is not formally registered as a company or association.": "Il Sito è un progetto gestito da Lorenzo Rossi, in qualità di referente del progetto musicale TÙS, non costituito come società o associazione formale.",
+    "For any request related to this Privacy Policy or to data processing, you can contact us at:": "Per qualsiasi richiesta relativa alla presente Privacy Policy o al trattamento dei dati, puoi contattarci a:",
+
+    "Data we process": "Dati trattati",
+    "The Site does not collect personal data through forms, contact forms, sign-ups, or user accounts, as none of these exist on the Site.": "Il Sito non raccoglie dati personali attraverso moduli, form di contatto, iscrizioni o account utente, poiché non ne sono presenti.",
+    "The only direct point of contact is the email address published on the \"Booking\" page (info.tus.band@gmail.com): if you write to us from there, the processing of any data you voluntarily provide (e.g. your email address, the content of your message) is governed by your own email provider`s privacy policy and, on our side, such data is used solely to reply to you and is not shared with third parties nor retained beyond what is necessary to handle the communication.": "L'unico punto di contatto diretto è l'indirizzo email pubblicato nella pagina \"Booking\" (info.tus.band@gmail.com): se ci scrivi da lì, il trattamento dei dati che ci fornisci volontariamente (es. la tua email, il contenuto del messaggio) è regolato dalla privacy policy del tuo provider di posta elettronica e, per quanto riguarda noi, tali dati sono utilizzati esclusivamente per risponderti e non vengono ceduti a terzi né conservati oltre il tempo necessario a gestire la comunicazione.",
+    "Automatically collected data (access logs)": "Dati raccolti automaticamente (log di navigazione)",
+    "Like any website, some technical data (e.g. IP address, browser type, pages visited, date and time of access) may be automatically logged by the infrastructure providers listed below, for security and technical operation purposes. We do not have direct access to these logs except in aggregated and anonymized form, where available.": "Come qualunque sito web, alcuni dati tecnici (es. indirizzo IP, tipo di browser, pagine visitate, data e ora di accesso) potrebbero essere registrati automaticamente dai fornitori di infrastruttura di seguito elencati, per finalità di sicurezza e funzionamento tecnico. Non abbiamo accesso diretto a questi log se non in forma aggregata e anonima, quando disponibile.",
+
+    "Cookies": "Cookie",
+    "The Site does not use cookies of any kind — neither technical, nor profiling, nor third-party — and does not perform any form of tracking or statistical traffic analysis (for example, no Google Analytics or equivalent tool is installed).": "Il Sito non utilizza cookie di alcun tipo — né tecnici, né di profilazione, né di terze parti — e non effettua alcuna forma di tracciamento o analisi statistica del traffico (non è installato, ad esempio, Google Analytics o strumenti equivalenti).",
+
+    "Third-party services": "Servizi di terze parti",
+    "The Site relies on the following external services, necessary for it to function:": "Il Sito si appoggia ai seguenti servizi esterni, necessari al suo funzionamento:",
+    "Service": "Servizio",
+    "Purpose": "Finalità",
+    "Data involved": "Dati coinvolti",
+    "Static hosting of the Site": "Hosting statico del sito",
+    "IP address and technical access logs, managed by GitHub Inc. according to its own privacy policy": "Indirizzo IP e log tecnici di accesso, gestiti da GitHub Inc. secondo la propria privacy policy",
+    "Loading of graphic icons": "Caricamento delle icone grafiche",
+    "Your browser downloads icons from external servers (cdnjs/Font Awesome), which may log the IP address of the request": "Il browser scarica le icone da server esterni (cdnjs/Font Awesome), che possono registrare l'indirizzo IP della richiesta",
+    "Loading of typefaces": "Caricamento dei caratteri tipografici",
+    "Fonts are currently loaded from Google`s servers; your browser makes a direct request to Google, which may log the IP address. Self-hosting the fonts is planned for the future to reduce this dependency.": "Attualmente i font sono caricati dai server Google; il tuo browser effettua una richiesta diretta a Google, che può registrare l'indirizzo IP. È prevista in futuro la migrazione a font self-hosted per ridurre questa dipendenza.",
+    "Automatic retrieval of events shown on the \"Events\" page": "Recupero automatico degli eventi mostrati nella pagina \"Eventi\"",
+    "Your browser makes a direct request to Google`s servers (googleapis.com) to download a public calendar; Google may log the IP address of the request. No personal data about us or about Site visitors is shared with Google": "Il tuo browser effettua una richiesta diretta ai server di Google (googleapis.com) per scaricare un calendario pubblico; Google può registrare l'indirizzo IP della richiesta. Non viene condiviso con Google alcun dato personale che ci riguarda o che riguarda i visitatori del Sito",
+    "For these third parties (GitHub Inc., Google LLC), the processing of technical data is governed by their respective privacy policies, which we invite you to review:": "Per queste terze parti (GitHub Inc., Google LLC), il trattamento dei dati tecnici è regolato dalle rispettive privacy policy, che ti invitiamo a consultare:",
+    "GitHub Privacy Statement": "Privacy Statement di GitHub",
+    "Google Privacy Policy": "Privacy Policy di Google",
+    "Links to external services": "Link a servizi esterni",
+    "The Site contains links to external platforms (e.g. Google Maps for directions, social media profiles) that open in a new tab. Once you click on such a link, navigation on that external site is governed by that platform`s own privacy policy, for which we are not responsible.": "Il Sito contiene link a piattaforme esterne (es. Google Maps per le indicazioni stradali, profili social) che vengono aperti in una nuova scheda. Una volta cliccato il link, la navigazione su quel sito esterno è regolata dalla privacy policy di quella piattaforma, di cui non siamo responsabili.",
+
+    "International data transfers": "Trasferimento dei dati extra-UE",
+    "Some of the providers mentioned above (GitHub Inc., Google LLC) are based in the United States. Any transfer of technical data to countries outside the EU takes place under the safeguards provided by these vendors (e.g. Standard Contractual Clauses approved by the European Commission).": "Alcuni dei fornitori sopra citati (GitHub Inc., Google LLC) hanno sede negli Stati Uniti. Il trasferimento di eventuali dati tecnici verso paesi extra-UE avviene sulla base delle garanzie previste da tali fornitori (es. Clausole Contrattuali Standard approvate dalla Commissione Europea).",
+
+    "Legal basis for processing": "Base giuridica del trattamento",
+    "For the limited technical data processed (access logs for security and Site operation purposes), the legal basis is the legitimate interest of the Data Controller in ensuring the security and proper functioning of the Site (Art. 6.1.f GDPR).": "Per i limitati dati tecnici trattati (log di accesso ai fini di sicurezza e funzionamento del Sito), la base giuridica è il legittimo interesse del Titolare a garantire la sicurezza e il corretto funzionamento del Sito (art. 6.1.f GDPR).",
+    "For data voluntarily provided via email, the legal basis is the performance of pre-contractual or contractual measures at your request, or your implied consent by initiating the communication (Art. 6.1.b/a GDPR).": "Per i dati forniti volontariamente via email, la base giuridica è l'esecuzione di misure precontrattuali o contrattuali su tua richiesta, oppure il tuo consenso implicito nell'aver avviato la comunicazione (art. 6.1.b/a GDPR).",
+
+    "Data retention": "Conservazione dei dati",
+    "Technical log data managed by third-party providers is retained according to their respective policies (generally for limited periods, unless otherwise required by law).": "I dati tecnici di log gestiti dai fornitori terzi sono conservati secondo le rispettive policy (generalmente per periodi limitati, salvo obblighi di legge).",
+    "Email communications are retained for as long as necessary to handle the request and subsequently deleted, unless otherwise agreed with the data subject.": "Le comunicazioni email sono conservate per il tempo necessario a gestire la richiesta e successivamente eliminate, salvo diverso accordo con l'interessato.",
+
+    "Your rights": "I tuoi diritti",
+    "As a data subject, you have the right to:": "In qualità di interessato, hai il diritto di:",
+    "Request access to your personal data": "Richiedere accesso ai tuoi dati personali",
+    "Request its rectification or erasure": "Richiederne la rettifica o la cancellazione",
+    "Request restriction of processing": "Richiedere la limitazione del trattamento",
+    "Object to processing": "Opporti al trattamento",
+    "Request data portability": "Richiedere la portabilità dei dati",
+    "Lodge a complaint with your national Data Protection Authority (in Italy: www.garanteprivacy.it)": "Proporre reclamo al Garante per la Protezione dei Dati Personali (www.garanteprivacy.it)",
+    "To exercise these rights, please write to:": "Per esercitare questi diritti, scrivi a:",
+
+    "Changes to this Privacy Policy": "Modifiche alla presente Privacy Policy",
+    "This Privacy Policy may be updated periodically to reflect changes in how the Site operates or in applicable law. We encourage you to review it periodically. The date of the last update is shown at the top of this document.": "Questa Privacy Policy può essere aggiornata periodicamente per riflettere cambiamenti nel funzionamento del Sito o nella normativa applicabile. Ti invitiamo a consultarla periodicamente. La data di ultimo aggiornamento è indicata in cima al documento."
 }
